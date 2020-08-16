@@ -79,8 +79,8 @@ DATABASES = {
         'NAME': 'producthuntdb',
         'USER': 'postgres',
         'PASSWORD':'django1234',
-        'HOST':'localhost'
-        'PORT':'5432'
+        'HOST':'localhost',
+        'PORT':'5432',
     }
 }
 
